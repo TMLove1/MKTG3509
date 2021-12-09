@@ -24,6 +24,6 @@ This semester, I learned a lot about python and the endless forms of analysis th
 9. **Module 9: Clustering and Segmentation**
 - [A9 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1Ge-ggiOQTLLFyvjiVrb8kpx15n-E0Zi9?usp=sharing)
 10. **Module 10: Text Analysis**
-- [A10 Vegas Resorts Text Mining]
+- A10 Vegas Resorts Text Mining
 11. **Module 11: Use GitHub to Create Your Assignment Portfolio**
-- [A11 Market Your Custoemr Data Analytics Skills]
+- A11 Market Your Custoemr Data Analytics Skills
